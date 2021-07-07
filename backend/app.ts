@@ -19,8 +19,8 @@ const options: object = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
-    user: "Apongpoh",
-    pass: "PassyMe.1",
+    user: "user",
+    pass: "userpassword",
     useFindAndModify: false,
     //autoIndex: false, /*for production*/
     poolSize: 10, // Maintain up to 10 socket connections
